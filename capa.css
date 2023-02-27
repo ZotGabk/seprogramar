@@ -1,0 +1,51 @@
+h1{
+    font-family: 'Cinzel', serif;
+    color: aliceblue;
+}
+h2{
+    font-family: 'Cinzel', serif;
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+}
+img{
+    border-radius: 50%;
+}
+.facebook{
+    width: 50px;
+    height: 50px;
+    
+}
+.linkedin{
+    width: 50px;
+    height: 50px;
+
+}
+.twitter{
+    width: 50px;
+    height: 50px;
+
+}
+body{
+    background-image: url("Fondos/Fondo\ azul.jpg");
+}
+.Estudios{
+    width: 30px;
+    height: 30px;
+}
+.Programacion{
+    width: 30px;
+    height: 30px;    
+}
+.Trabajo{
+    width: 30px;
+    height: 30px;
+}
+.Datos{
+    width: 30px;
+    height: 30px;
+}
+p{
+    color: aliceblue;
+}
